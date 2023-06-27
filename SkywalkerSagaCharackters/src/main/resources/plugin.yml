@@ -1,0 +1,7 @@
+name: SkywalkersagaMenu
+version: '${project.version}'
+main: de.squeezzy.skywalkersagacharackter.Main
+api-version: 1.18
+authors: [ Squeezzy ]
+commands:
+  giveitem:
